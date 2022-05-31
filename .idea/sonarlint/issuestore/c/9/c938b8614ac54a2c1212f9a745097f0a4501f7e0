@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›¦„üÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÔ™f8ŸÑ×0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(â°Ø8 ŸÑ×0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8 ŸÑ×0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸°¨çÿÿÿÿÿ8¡ŸÑ×0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İÎÎ¤şÿÿÿÿ8¢ŸÑ×0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8£ŸÑ×0
+K
+java:S1481")Remove this unused "wpis" local variable.(Èİéßÿÿÿÿÿ8£ŸÑ×0
+J	java:S108")Either remove or fill this block of code.(Èİéßÿÿÿÿÿ8¤ŸÑ×0

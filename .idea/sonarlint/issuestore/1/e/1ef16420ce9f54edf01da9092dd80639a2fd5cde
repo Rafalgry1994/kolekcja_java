@@ -1,0 +1,11 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŸ§Ùşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šûæ®øÿÿÿÿ
+c
+java:S1854"MRemove this useless assignment to local variable "tekstBezPrzecinkowIKropek".(›Ÿ¢Ù
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ø«ãä
+c
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¦ë¿Äùÿÿÿÿ
+T
+java:S1481">Remove this unused "tekstBezPrzecinkowIKropek" local variable.(›Ÿ¢Ù
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ë­üéùÿÿÿÿ8ØûÉÖ0

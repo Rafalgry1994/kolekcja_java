@@ -1,0 +1,18 @@
+
+h
+java:S1192"MDefine a constant instead of duplicating this literal "Podaj nazwe:" 3 times.(­éøÉøÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘
+M	java:S106"9Replace this use of System.out or System.err by a logger.(úÏy
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œ²Ý¨
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­éøÉøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°ƒãÄ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŽàøÁøÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ïâÙ°
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(­éøÉøÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(Ê‰êû
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(³éë
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(×•Þâ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(­éøÉøÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(çó½ÿúÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(ïâÙ°
