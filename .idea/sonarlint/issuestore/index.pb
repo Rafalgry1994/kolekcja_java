@@ -45,9 +45,3 @@ y
 Isrc/main/java/pl/sda/arppl4/kolekcje_java/pozostale/MainZbioryZad1_2.java,d\7\d741565796c089fe504d6a4f2f2c47dfaa9797b7
 r
 Bsrc/main/java/pl/sda/arppl4/kolekcje_java/equalshashcode/Main.java,d\b\db5bd5709191e8b53c1b895f6a46d17511672e58
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-l
-<src/main/java/pl/sda/arppl4/kolekcje_java/dziennik/Main.java,9\3\93ac98ffea775e7520bc4e987c6443c131a8be52
-o
-?src/main/java/pl/sda/arppl4/kolekcje_java/dziennik/Student.java,3\f\3fecc2c09afefa460863c8785ad00cf03399c769

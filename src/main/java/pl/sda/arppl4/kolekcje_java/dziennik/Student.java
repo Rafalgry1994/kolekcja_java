@@ -1,27 +1,24 @@
 package pl.sda.arppl4.kolekcje_java.dziennik;
 
+
+
 import lombok.*;
 
 import java.util.ArrayList;
 import java.util.List;
 
-
 /**
  * Student powinna:
- *  * - posiadać listę ocen studenta (List<Double>)
- *  * - posiadać (pole) numer indeksu studenta (String)
- *  * - posiadać (pole) imię studenta
- *  * - posiadać (pole) nazwisko studenta
+ * - posiadać listę ocen studenta (List<Double>)
+ * - posiadać (pole) numer indeksu studenta (String)
+ * - posiadać (pole) imię studenta
+ * - posiadać (pole) nazwisko studenta
  */
-
-@Data //getter,setter, tostring, equalsandhashcode,
-      // requiredarguscostructor = wymagany,nezbedny,potrzebny
-@Getter
-@Setter
-@ToString
-@EqualsAndHashCode
-@AllArgsConstructor
-@NoArgsConstructor
+@Data       // Getter, Setter, EqualsAndHashCode, ToString,
+// RequiredArgsConstructor
+// Wymagany/Potrzebne/Niezbędne
+//@NoArgsConstructor      // 0 parametrów
+//@AllArgsConstructor     // 4 parametry
 public class Student {
     private List<Double> listaOcen = new ArrayList<>();
     private String indeks;
